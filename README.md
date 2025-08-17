@@ -24,5 +24,3 @@ This app allows users to **add, update, delete, and mark tasks as complete**, ma
 - Express.js
 - MongoDB (Mongoose for ODM)
 
-## 📂 Project Structure
-
